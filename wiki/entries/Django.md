@@ -1,0 +1,1 @@
+Django is a library used with Python to create dynamic CSS.
